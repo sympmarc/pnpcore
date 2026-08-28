@@ -6,7 +6,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
-## 1.18 - Unreleased
+## 1.19 - Unreleased
+
+### Added 
+
+### Changed
+
+- Updated Demo.ConsoleApp Sample #1833 [gszdev - gszdev]
+- Updated Demo.Blazor Sample #1834 [gszdev - gszdev]
+- Fixed Web.NewPage() freezes application #1827 [gszdev - gszdev]
+- Updated Demo.ASPNetCore Sample #1835 [gszdev - gszdev]
+- Fixed tenant hidden list url change #1855 [gszdev - gszdev] [czullu - Christian Zuellig]
+
+## [1.18]
 
 ### Added 
 
